@@ -1,5 +1,15 @@
 # Loan-Default-Prediction
-## Predicting Loan Default using Logistic Regression and XGBoost<br>
+## Predicting Loan Default using various ensemble and single classifiers
+### Classifiers used in this project:
+Random Forest<br>
+Logistic Regression<br>
+Support Vector Machines(SVM)<br>
+K Nearest Neighbors(KNN) <br>
+Bagging<br>
+Ada Boost<br>
+Multi-Layer Perceptron<br>
+### We also implemented feature importance with Random Forest<br>
+
 1.Exploratory Data Analysis<br>
 2.Data Preprocessing<br>
 3.Feature Selection and Feature Importance<br>
